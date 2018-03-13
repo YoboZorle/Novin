@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "215315041138",
+    "firebase_url": "https://novin-d7e3a.firebaseio.com",
+    "project_id": "novin-d7e3a",
+    "storage_bucket": "novin-d7e3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215315041138:android:34b88f3d6f06a020",
+        "android_client_info": {
+          "package_name": "com.klynox.novin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215315041138-qol8nge4b2lbkd6nv3njflr0skme42t1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.klynox.novin",
+            "certificate_hash": "0c409e52a321e63e5184cc260fc82da88184dfb9"
+          }
+        },
+        {
+          "client_id": "215315041138-vpv7lf38hrql17jh445kr6j5hrr5k4su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT0pCIXRMqLABkE8vVAalgqJtmoqKUBuI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215315041138-vpv7lf38hrql17jh445kr6j5hrr5k4su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
